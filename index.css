@@ -1,0 +1,159 @@
+#nav{
+    justify-content: space-between;
+
+    margin-top: 40px;
+}
+#getJobPostJob{
+ display: flex;
+
+flex: 1;
+position: absolute;
+left: 50%;
+margin-top: 30px;
+font-size: 30px;
+left: 30rem;
+top: 20px;
+
+}
+
+
+#hd {
+
+    margin-top: 1px;
+    color: #f261b4;
+    font-size: 2em;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-left: 70px;
+}
+
+#reg-img {
+    position: relative;
+    top: -160px;
+    right: -1110px;
+
+
+
+}
+
+#imagee {
+    justify-content: right;
+
+}
+
+#img {
+    position: relative;
+    justify-content: left;
+    top: -750px;
+
+
+}
+
+
+#ola {
+    padding-left: 80px;
+    text-align: center;
+
+
+}
+
+#gst {
+    color: #f261b4;
+    font-size: 1.7em;
+    display: block;
+    display: block;
+    font-weight: bold;
+    margin-left: 70px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    align-content: center;
+    margin: -0.2em;
+    text-align: left;
+
+}
+
+#fydj {
+
+    color: black;
+    font-size: 4em;
+    display: block;
+    font-weight: bold;
+    margin-left: 70px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    align-content: center;
+    margin: -0.2em;
+    text-align: left;
+
+}
+
+
+#bst {
+
+    color: black;
+    font-size: 25px;
+    display: block;
+    font-weight: lighter;
+    margin-left: 70px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    align-content: center;
+    text-align: start;
+    margin: -0.2em;
+    margin-top: 20px;
+
+
+
+}
+
+
+#search {
+    font-size: 30px;
+    text-align: start;
+
+}
+
+#job {
+    border: none;
+    font-size: 20px;
+    cursor: text;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#sch {
+    border-color: #f261b4;
+    font-size: 25px;
+    color: white;
+    background-color: #f261b4;
+    text-decoration: solid;
+
+}
+
+.lg {
+
+    position: relative;
+    top: -700px;
+    right: -1350px;
+    color: #f261b4;
+    margin-left: 30px;
+    background-color: white;
+    border: 32px;
+    font-size: 35px;
+    padding: 10px;
+}
+
+.sp {
+    position: relative;
+    top: -700px;
+    right: -1350px;
+    color: white;
+    margin-left: 30px;
+    background-color: #f261b4;
+    border: 32px;
+    font-size: 35px;
+    padding: 10px;
+    text-align: center;
+}
+
+
